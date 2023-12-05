@@ -1,0 +1,18 @@
+.contentSpan {
+	background-color: #dfe2e3;
+  	width: 26vw;
+  	border: solid 5px #aa1010;
+  	border-radius: 30px;
+  	text-align: center;
+  	position: absolute;
+  	top: 10%;
+  	height: 7vw;
+  	left: 2vw;
+}
+
+#btn {
+	width: 30%;
+  	border: 1px solid;
+  	border-radius: 5px;
+}
+
